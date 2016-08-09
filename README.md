@@ -1,7 +1,7 @@
 # GetPost
 Make case-insensitive key of $_GET & $_POST
 
-#Example
+#How to use
 1.GetPost::ConvertALLKeyToLOWER();
 
 2.GetPost::SearchGET("val");//val is key which you want to search data
