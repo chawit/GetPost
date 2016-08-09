@@ -10,4 +10,4 @@ Make case-insensitive key of $_GET & $_POST
 
 4.GetPost::SearchPOST("val");//val is key which you want to search data
 
-5.GetPost::ConvertManual("upper");
+5.GetPost::ConvertManual("upper","lower");
