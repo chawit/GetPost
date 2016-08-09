@@ -1,7 +1,7 @@
 <?php
-/****
-By Chawit Wiriyakun
-*****/
+/*
+Copyright (c) 2016 Chawit Wiriyakun
+*/
 Class GetPost{
 	
 public function ConvertALLKeyToLOWER(){
@@ -62,4 +62,6 @@ public  static function SearchPOST($key)
 
    
 }
+
+
 ?>
