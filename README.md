@@ -1,2 +1,2 @@
 # GetPost
-Make Key of $_GET &amp; $_POST function to case-insensitive
+Make case-insensitive key of $_GET & $_POST
